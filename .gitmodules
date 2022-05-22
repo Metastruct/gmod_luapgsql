@@ -1,0 +1,4 @@
+[submodule "luapgsql"]
+	path = luapgsql
+	url = https://github.com/arcapos/luapgsql.git
+	branch = master
